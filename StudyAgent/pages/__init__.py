@@ -1,0 +1,1 @@
+"""StudyPilot app pages."""
